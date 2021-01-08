@@ -10,4 +10,4 @@ de una molécula; las redes neuronales aún no han sido ampliamente exploradas
 proteı́na objetivo puede emplearse efectivamente para diseñar fármacos.
 
 En este trabajo exploramos las características de 5597 proteínas etiquetadas como positivas o negativas
-e implementamos una red neuronal de aprendizaje profundo como clasificador.
+e implementamos una red neuronal de aprendizaje profundo como clasificador usando `PyTorch`.
