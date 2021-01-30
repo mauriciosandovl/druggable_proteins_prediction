@@ -1,4 +1,5 @@
 # Druggable Protein Prediction
+Mauricio Sandoval Cuenca  
 El proceso de desarrollo de fármacos implica una gran cantidad de etapas costosas y laboriosas en las que
 es necesario un alto nivel de seguridad. Tı́picamente el punto de partida es la identificación de moléculas
 objetivo (usualmente proteı́nas) sobre las cuales los fármacos puedan tener un efecto favorable. A esta
